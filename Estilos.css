@@ -1,23 +1,14 @@
-img { padding-left: 600px;
-
+* {
+	font-family: sans-serif;
+	background: darkgrey;
 }
-
-
-
-
-
-ul { align-items: left;
-	margin: auto;
-
-}
-h1 {font-family: sans-serif;
+h1 {
+	font-size: xx-large;
 	text-align: center;
-	
-
-
-}
-body { background-color: beige;
-
 }
 
 
+li {
+	font-style: italic;
+	text-decoration: underline;
+}
