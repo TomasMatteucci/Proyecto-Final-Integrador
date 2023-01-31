@@ -1,14 +1,28 @@
-* {
-	font-family: sans-serif;
-	background: darkgrey;
-}
-h1 {
-	font-size: xx-large;
+header{
 	text-align: center;
-}
+	font-size: medium;
+	box-sizing: content-box;
+	background-color:aliceblue;
 
+}
 
 li {
-	font-style: italic;
+	font-
 	text-decoration: underline;
+	text-emphasis: blanchedalmond;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 100px;
+}
+.BarraLateral {
+	font-style: italic;
+	text-justify: newspaper;
+}
+a {
+	font-size: xx-large;
+	font-family: monospace;
 }
